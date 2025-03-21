@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <time.h>
 
-//#define LIMITE_HAUTE 1000 // <- Décommente cette ligne pour version fixe
+//#define LIMITE_HAUTE 1000 // <- Décommentre cette ligne pour version fixe
 
 int main() {
     int pipe_fils_to_pere[2];
